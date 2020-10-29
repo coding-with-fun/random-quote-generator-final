@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coding-with-fun/mern-authenticator-final/static/css/main.d66a4799.chunk.css",
+    "main.js": "/coding-with-fun/mern-authenticator-final/static/js/main.b97364b2.chunk.js",
+    "main.js.map": "/coding-with-fun/mern-authenticator-final/static/js/main.b97364b2.chunk.js.map",
+    "runtime-main.js": "/coding-with-fun/mern-authenticator-final/static/js/runtime-main.9c88d388.js",
+    "runtime-main.js.map": "/coding-with-fun/mern-authenticator-final/static/js/runtime-main.9c88d388.js.map",
+    "static/js/2.b5b67733.chunk.js": "/coding-with-fun/mern-authenticator-final/static/js/2.b5b67733.chunk.js",
+    "static/js/2.b5b67733.chunk.js.map": "/coding-with-fun/mern-authenticator-final/static/js/2.b5b67733.chunk.js.map",
+    "index.html": "/coding-with-fun/mern-authenticator-final/index.html",
+    "precache-manifest.26325e6024e8d85e3615e45b09d5d054.js": "/coding-with-fun/mern-authenticator-final/precache-manifest.26325e6024e8d85e3615e45b09d5d054.js",
+    "service-worker.js": "/coding-with-fun/mern-authenticator-final/service-worker.js",
+    "static/css/main.d66a4799.chunk.css.map": "/coding-with-fun/mern-authenticator-final/static/css/main.d66a4799.chunk.css.map",
+    "static/js/2.b5b67733.chunk.js.LICENSE.txt": "/coding-with-fun/mern-authenticator-final/static/js/2.b5b67733.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c88d388.js",
+    "static/js/2.b5b67733.chunk.js",
+    "static/css/main.d66a4799.chunk.css",
+    "static/js/main.b97364b2.chunk.js"
+  ]
+}
